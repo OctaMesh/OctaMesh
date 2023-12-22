@@ -1,31 +1,10 @@
-# Project Title
+- 👋 Hi, I’m @OctaMesh
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-...
-
-## Usage
-
-...
-
-## Features
-
-...
-
-## Contributing
-
-...
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<!---
+OctaMesh/OctaMesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
